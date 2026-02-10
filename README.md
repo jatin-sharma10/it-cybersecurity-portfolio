@@ -15,7 +15,7 @@ The focus of this portfolio is clear documentation, structured system design, an
 Each project is scoped to reflect how systems are designed, secured, monitored, and maintained in professional environments.
 
 Projects Included
-1. Internal Records API (Serverless Hospital Infrastructure)
+1. Internal Records API (Serverless Infrastructure)
 
 Design and implementation of a serverless internal records service using AWS managed services.
 The system supports non-clinical operational records, emphasizing secure access, auditability, observability, and cost-aware infrastructure design.
